@@ -37,7 +37,7 @@ layout: default
 <div class='orgWrapper'>
 <img src="/assets/images/ACE-DS_logo.PNG" alt="ACE-DS" width="150" />
 <div class='bioWrapper'>
-[**Africa Higher Education Centers of Excellence**](https://ace2.iucea.org/index.php/download/).
+[**African Center of Excellence in Data Science**](https://aceds.ur.ac.rw/).
 </div>
 </div>
 
