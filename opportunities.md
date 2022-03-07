@@ -4,8 +4,7 @@ layout: default
 
 
 
-Work with and for us.
-
+# Work with and for us.
 On the [**QLA-Careers**](https://quantumleapafrica.org/qla-careers/) webpage, you will find a lot of updates regarding research opportunities at QLA. Here, we just feature a couple of them.
 
 
