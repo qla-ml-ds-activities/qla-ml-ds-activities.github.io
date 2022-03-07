@@ -1,10 +1,10 @@
-# dtp-ds-2022
+# qla-ml-ds-activities
 
-# FOUNDATIONAL METHODS IN DATA SCIENCE’ TRAINING SCHOOL
 
-This is the repository for the web pages of our training school Series on
-Machine Learning and Applications. Please visit
-[DTP-DS-2022](https://quantumleapafrica.org/event/data-science-training-school/)
+
+This is the repository for the web pages of our qla-ml-ds- research activities on
+Machine Learning, Data Science, Artificial Intelligence , QUantum Information and Applications. Please visit
+[DTP-DS-2022](https://quantumleapafrica.org/)
 for more information.
 
 
