@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-This page contains all our tutorials and practicals.
+This page contains all our `tutorials` and `practicals`.
 
 
 ## =======================
