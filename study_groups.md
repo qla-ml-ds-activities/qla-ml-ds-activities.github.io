@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
+# Reading Groups
 
 
-
-Theoretical Aspects-- Data Science & ML--- Yaé
-Applications-- Data Science & ML--- Hove
-Quantum Aspects-- Data Science & ML---   Abdulmajid
+1. Theoretical Aspects-- Data Science & ML--- Yaé
+2. Applications-- Data Science & ML--- Hove
+3. Quantum Aspects-- Data Science & ML---   Abdulmajid
