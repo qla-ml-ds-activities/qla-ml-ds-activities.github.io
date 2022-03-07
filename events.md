@@ -7,4 +7,4 @@ This page contains all the events (past, current and upcoming) organised by/with
 
 
 
-## Training school on [**Foundational Methods in Data Science**](https://qla-ml-ds.github.io/)
+##  [**Training school on: Foundational Methods in Data Science**](https://qla-ml-ds.github.io/)
