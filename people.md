@@ -16,7 +16,7 @@ layout: default
 <img align="left" src="assets/images/az.jpg" alt="Aulan Lucrece Zahoundo
 " width="150">
 <div class='bioWrapper'>
-[**Aulan L. Zahoundo**](www.linkedin.com/in/aulan-zahoundo) has joined the structured master's program in 2019 in South Africa after completing a master's degree at [**IMSP**](http://imsp-benin.com/home/) in theoretical physics. Currently, I am enrolled as a research master's student at Quantum Leap Africa in Rwanda. My research is focused on quantum error correction and machine learning.
+[**Aulan L. Zahoundo**](www.linkedin.com/in/aulan-zahoundo) has joined the structured master's program in 2019 in South Africa after completing a master's degree at [**IMSP**](http://imsp-benin.com/home/) in theoretical physics. Currently, she is enrolled as a research master's student at Quantum Leap Africa in Rwanda. My research is focused on quantum error correction and machine learning.
 </div>
 </div>
 
