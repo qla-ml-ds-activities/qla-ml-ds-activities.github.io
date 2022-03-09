@@ -2,10 +2,10 @@
 
 
 
-This is the repository for the web pages of our qla-ml-ds- research activities on
-Machine Learning, Data Science, Artificial Intelligence , QUantum Information and Applications. Please visit
-[DTP-DS-2022](https://quantumleapafrica.org/)
-for more information.
+This is the repository for the code for the web pages of our qla-ml-ds- research activities on
+machine learning, data science, artificial intelligence, quantum Information and applications. Please visit
+[**QLA**](https://quantumleapafrica.org/) for more information.
+
 
 
 # Licence
