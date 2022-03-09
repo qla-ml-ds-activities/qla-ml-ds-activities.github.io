@@ -6,7 +6,7 @@ layout: default
 <div class='orgWrapper'>
 <img align="left" src="assets/images/sa.jpg" alt="Smita Krishnaswamy" width="150">
 <div class='bioWrapper'>
-[**Serge Adonsou**](https://tg.linkedin.com/in/serge-adonsou-339894201) has a background in mathematics (pure and applied) namely number theory and mathematical modeling. Currently his research interest is quantum information and quantum computing particularly quantum algorithms designing and also topological quantum computing.
+[**Serge Adonsou**](https://tg.linkedin.com/in/serge-adonsou-339894201) has a background in mathematics (pure and applied) namely number theory and mathematical modeling. Currently his research interest is quantum information and quantum computing particularly quantum algorithms designing and also topological quantum computing. Reach me at sadonsou@quantumleapafrica.org
 </div>
 </div>
 
