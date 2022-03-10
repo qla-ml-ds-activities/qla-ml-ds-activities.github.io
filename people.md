@@ -47,7 +47,22 @@ experience and satisfaction.
 I am currently working as a research master in data science at Quantum Leap Africa.
 I am passionated on turning data into business solution and she enjoy helping other.
 </div>
+</div
+ 
+ 
+ 
+<div class='orgWrapper'>
+<img align="left" src="assets/images/djl.jpg" alt="Domini Jocema LEKO
+" width="150">
+<div class='bioWrapper'>
+[** Domini J. LEKO **](https://www.linkedin.com/in/aur%C3%A9lie-jodelle-kemme-5a07) I am a Congolese whose passion is mathematics. I obtained his master's degree in teaching Mathematics from Marien Ngouabi University at Ecole Normale Supérieure before joining the structured master’s graduate program with the African Institute for Mathematical Sciences in South Africa. After five years of teaching at the Secondary level, I joined Quantum Leap Africa as a research master's student. My research focused on Topological data analysis and machine learning.
 </div>
+</div>
+
+
+
+
+
 
 
 
