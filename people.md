@@ -22,6 +22,35 @@ layout: default
 
 
 
+
+<div class='orgWrapper'>
+<img align="left" src="assets/images/az.jpg" alt="Chanelle Matadah Manfouo
+" width="150">
+<div class='bioWrapper'>
+[**Chanelle M. Manfouo**](https://cm.linkedin.com/in/chanelle-matadah-manfouo-00a946130)  I am from Cameroon. I graduated from the University of Ngaoundere where I studied mathematics and computer science. After that, I did a structured master's in mathematical sciences at AIMS Cameroon and a research master's in computer science with a focus on quantum cryptography at Quantum Leap Africa. Currently, I am a PhD student in data science at Quantum Leap Africa and at the University of KwaZulu-Natal. My research seeks to review and propose possible optimization of quantum subroutines for some machine learning algorithms. Then, implement the improved version of the latter on real datasets to evaluate their efficiency and practicality. My research interest is in quantum information, quantum machine learning, quantum cryptography, and data science.
+</div>
+</div>
+
+
+<div class='orgWrapper'>
+<img align="left" src="assets/images/jak.jpg" alt="Jodelle Aurelie Kemme
+" width="150">
+<div class='bioWrapper'>
+[**Jodelle A. Kemme**](https://www.linkedin.com/in/aur%C3%A9lie-jodelle-kemme-5a07)  I am a Cameroonian with a fastinanted problem solving skills.
+I hold a bachelor degree in Pure mathematics from the university of Douala (Cameroon) and a master degree in Industrial
+mathematics from the African Institute for mathematical Science (AIMS Cameroon).
+I worked previously as a software ingenieur at the Climate Application and Prediction Center (CAPC-AC) where I
+succeded to build an interface user-machine to help them manage their climatic and meteorological database.
+I was part of the Ishango data science fellowship program where I worked with [`tails.com`](https://tails.com/gb/) which is a UK based company
+supplying tailored dogs foods. I designed a data driven marketing strategy to help [`tails.com`](https://tails.com/gb/) improves their customers
+experience and satisfaction.
+I am currently working as a research master in data science at Quantum Leap Africa.
+I am passionated on turning data into business solution and she enjoy helping other.
+</div>
+</div>
+
+
+
 ## Our partners
 
 
