@@ -11,7 +11,6 @@ layout: default
 </div>
 
 
-
 <div class='orgWrapper'>
 <img align="left" src="assets/images/az.jpg" alt="Aulan Lucrece Zahoundo
 " width="150">
@@ -19,7 +18,6 @@ layout: default
 [**Aulan L. Zahoundo**](www.linkedin.com/in/aulan-zahoundo) has joined the structured master's program in 2019 in South Africa after completing a master's degree at [**IMSP**](http://imsp-benin.com/home/) in theoretical physics. Currently, she is enrolled as a research master's student at Quantum Leap Africa in Rwanda. My research is focused on quantum error correction and machine learning.
 </div>
 </div>
-
 
 
 
@@ -38,25 +36,23 @@ layout: default
 <div class='bioWrapper'>
 [**Jodelle A. Kemme**](https://www.linkedin.com/in/aur%C3%A9lie-jodelle-kemme-5a07)  I am a Cameroonian with a fastinanted problem solving skills.
 I hold a bachelor degree in Pure mathematics from the [**University of Douala**](https://www.univ-douala.cm/) in Cameroon) and a master degree in Industrial
-mathematics from the African Institute for mathematical Science (AIMS Cameroon).
-I worked previously as a software ingenieur at the Climate Application and Prediction Center (CAPC-AC) where I
-succeded to build an interface user-machine to help them manage their climatic and meteorological database.
-I was part of the Ishango data science fellowship program where I worked with [`tails.com`](https://tails.com/gb/) which is a UK based company
-supplying tailored dogs foods. I designed a data driven marketing strategy to help [`tails.com`](https://tails.com/gb/) improves their customers
-experience and satisfaction. I am currently working as a research master in data science at Quantum Leap Africa. I am passionated on turning data into business solution and she enjoy helping other.
+mathematics from the African Institute for mathematical Science (AIMS Cameroon). I worked previously as a software ingenieur at the Climate Application and Prediction Center (CAPC-AC) where I succeded to build an interface user-machine to help them manage their climatic and meteorological database. I was part of the Ishango data science fellowship program where I worked with [`tails.com`](https://tails.com/gb/) which is a UK based company supplying tailored dogs foods. I designed a data driven marketing strategy to help [`tails.com`](https://tails.com/gb/) improves their customers experience and satisfaction. I am currently working as a research master in data science at Quantum Leap Africa. I am passionated on turning data into business solution and she enjoy helping other.
 </div>
-</div
- 
- 
+</div>
+  
  
 <div class='orgWrapper'>
 <img align="left" src="assets/images/djl.jpg" alt="Domini Jocema LEKO
 " width="150">
 <div class='bioWrapper'>
-[** Domini J. LEKO **](https://cg.linkedin.com/in/domini-jocema-leko-moutouo-644b5799) I am a Congolese whose passion is mathematics. I obtained his master's degree in teaching Mathematics from Marien Ngouabi University at Ecole Normale Supérieure before joining the structured master’s graduate program with the African Institute for Mathematical Sciences in South Africa. After five years of teaching at the Secondary level, I joined Quantum Leap Africa as a research master's student. My research focused on Topological data analysis and machine learning.
+[**Domini J. LEKO**](https://cg.linkedin.com/in/domini-jocema-leko-moutouo-644b5799) I am a Congolese whose passion is mathematics. I obtained his master's degree in teaching Mathematics from Marien Ngouabi University at Ecole Normale Supérieure before joining the structured master’s graduate program with the African Institute for Mathematical Sciences in South Africa. After five years of teaching at the Secondary level, I joined Quantum Leap Africa as a research master's student. My research focused on Topological data analysis and machine learning.
 </div>
 </div>
-
+ 
+ 
+ 
+ 
+ 
 
 
 
