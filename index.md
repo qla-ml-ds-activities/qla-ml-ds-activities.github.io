@@ -25,7 +25,7 @@ Quantum Leap Africa (QLA) was created by the African Institute for Mathematical 
 
 
 <center>
-  <a href="https://github.com/QLA-ML-DS" ><img src="assets/images/github-logo.jpg" style="float:center; max-width: 400px; display: inline" alt="qla-ml-ds_githubpage"/> </a>
+  <a href="https://github.com/QLA-ML-DS" ><img src="assets/images/github-logo.jfif" style="float:center; max-width: 400px; display: inline" alt="qla-ml-ds_githubpage"/> </a>
 </center>
 
 
