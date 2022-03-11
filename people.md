@@ -3,10 +3,6 @@ layout: default
 ---
 
 
-<a class="buttons github" href="{{ site.github.repository_url }}">Voir sur GitHub</a></li>
- 
- 
-   <a class="buttons github" href="https://github.com/QLA-ML-DS/"> Follow us on our GitHub Profile</a>
  
           
 
