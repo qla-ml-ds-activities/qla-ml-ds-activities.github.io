@@ -3,6 +3,11 @@ layout: default
 ---
 
 
+ <ul>
+   <a class="buttons github" href="https://github.com/QLA-ML-DS/"> Follow us on our GitHub Profile</a>
+ </ul>
+          
+
 <div class='orgWrapper'>
 <img align="left" src="assets/images/sa.jpg" alt="Serge Adonsou" width="150">
 <div class='bioWrapper'>
