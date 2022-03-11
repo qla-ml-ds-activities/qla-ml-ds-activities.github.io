@@ -23,5 +23,5 @@ Consider joining our Slack Community [qla-ml-ds]() to stay up-to-date with upcom
 Quantum Leap Africa (QLA) was created by the African Institute for Mathematical Sciences (AIMS) to catalyze top quality high impact research in data science, smart systems engineering and drive the future IT revolution through quantum information. It is also mandated to train the next generation of innovators in information science and technology. The vision is to place Africa on the leading edge of quantum science and the technologies of the future.
  
 
-# GitHub
-Follow us on our [**GitHub Page**](https://github.com/QLA-ML-DS)
+# Follow us on [**Our GitHub Page**](https://github.com/QLA-ML-DS)
+
