@@ -48,11 +48,20 @@ mathematics from the African Institute for mathematical Science (AIMS Cameroon).
 <img align="left" src="assets/images/djl.jpg" alt="Domini Jocema LEKO
 " width="150">
 <div class='bioWrapper'>
-[**Domini J. LEKO**](https://cg.linkedin.com/in/domini-jocema-leko-moutouo-644b5799) I am a Congolese whose passion is mathematics. I obtained my master's degree in teaching Mathematics from [**Marien Ngouabi University**](https://www.umng.cg/) at Ecole Normale Supérieure before joining the structured master’s graduate program with the African Institute for Mathematical Sciences in South Africa. After five years of teaching at the Secondary level, I joined Quantum Leap Africa as a research master's student. My research focused on Topological data analysis and machine learning.
+[**Domini J. Leko**](https://cg.linkedin.com/in/domini-jocema-leko-moutouo-644b5799) I am a Congolese whose passion is mathematics. I obtained my master's degree in teaching Mathematics from [**Marien Ngouabi University**](https://www.umng.cg/) at Ecole Normale Supérieure before joining the structured master’s graduate program with the African Institute for Mathematical Sciences in South Africa. After five years of teaching at the Secondary level, I joined Quantum Leap Africa as a research master's student. My research focused on Topological data analysis and machine learning.
 </div>
 </div>
  
  
+ 
+ 
+<div class='orgWrapper'>
+<img align="left" src="assets/images/nlm.jpeg" alt="Nelie Laura MAKENNE
+" width="150">
+<div class='bioWrapper'>
+[**Nelie L. Makenne**](https://www.linkedin.com/mwlite/in/nelie-laura-makenne-66887215b) I am Nelie Laura MAKENNE from Cameroon, I hold a master's degree in Computer Science from [**Dschang Uniersity**](https://www.univ-dschang.org/), Cameroon. I am also an AIMS Cameroon Alumni cohort 2019/2020. I previously worked at [**Nzhinusoft**](https://nzhinusoft.com/) Cameroon as software engineer where my job was to develop and maintain e-commerce websites. I am currently a research master student in data science at quantum leap africa where my research is focused in convex optimization for data classification.
+</div>
+</div>
  
  
  
