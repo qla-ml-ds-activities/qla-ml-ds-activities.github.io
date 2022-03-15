@@ -20,3 +20,7 @@ In partnership with the Carnegie Corporation of New York, the African Institute 
 
 ## [**AIMS-Carnergie Small Research Grants in Data Science and its Applications**](https://quantumleapafrica.org/research_career/2439-2/)
 In partnership with the Carnegie Corporation of New York and the African Institute for Mathematical Sciences (AIMS), the Quantum Leap Africa Research Centre is pleased to invite promising African PhD students who are at an advanced stage of their research, and researchers with at least a PhD qualification in the field of data science and its related disciplines, to apply for the AIMS-Carnegie Small Research Grants in Data Science and its Applications.
+
+
+## [**About Research Masters and PhDs**](https://quantumleapafrica.org/course/research-masters-phds/) 
+Quantum Leap Africa (QLA) offers a unique atmosphere that prepares research masters/ PhD's students for careers in academia and industry. 
