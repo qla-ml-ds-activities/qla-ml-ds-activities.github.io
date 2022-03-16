@@ -65,6 +65,15 @@ mathematics from the African Institute for mathematical Science (AIMS Cameroon).
  
  
  
+<div class='orgWrapper'>
+<img align="left" src="assets/images/eac.jpg" alt="Everlyn Asiko Chimoto
+" width="150">
+<div class='bioWrapper'>
+[**Everlyn A. Chimoto**](https://www.linkedin.com/in/everlyn-asiko/) I am a machine translation researcher from Kenya. I am currently studying at [**University of Cape Town**](http://www.uct.ac.za/) as a research master's student. I have a BSc in Computer Science (First Class Honours) from [**Masinde Muliro University of Science and Technology**](https://www.mmust.ac.ke/); an MSc in Mathematical Sciences(With Distinction) from the African Institute for Mathematical Sciences(AIMS)/University of Cape Town(UCT). I was awarded Paul G. Allen Family Foundation Scholarship for outstanding achievement on my Master's. My research interest lies in Machine Translation for low-resource languages. My MSc research was on Neural Machine Translation for Low-Resource Languages supervised by Professor Bruce Bassett. I am also a member of the Masakhane community that strengthens NLP research in African languages.
+</div>
+</div>
+ 
+ 
 
 
 
