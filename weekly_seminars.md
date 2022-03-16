@@ -35,7 +35,7 @@ This page features the weekly research seminars at QLA. The slides will be avail
 | 08 - 02 - 2022  | **Adapters in Transformers** | [Everlyn Asiko Chimoto](https://ke.linkedin.com/in/everlyn-asiko) |
 | 15 - 02 - 2022  | **The calculation of Betti numbers-1** | [Domini Jocema Leko](https://cg.linkedin.com/in/domini-jocema-leko-moutouo-644b5799) |
 | 22 - 02 - 2022  | **The calculation of Betti numbers-2** | [Domini Jocema Leko](https://cg.linkedin.com/in/domini-jocema-leko-moutouo-644b5799) |
-| 01 - 03 - 2022  | [**Git-and-GitHub-quick-start-tutorial**](https://github.com/QLA-ML-DS/Git-Github-Tuorial/blob/main/Tutorial-Files/the-practical.md) | [QLA](https://aims.ac.rw/quantum-leap-africa-qla/) | |
+| 01 - 03 - 2022  | [**Git-and-GitHub-quick-start-tutorial**](https://github.com/QLA-ML-DS/Tutorials_and_Practicals/blob/main/git_and_github_practical/the-practical.md) | [QLA](https://aims.ac.rw/quantum-leap-africa-qla/) | |
 
 
 
