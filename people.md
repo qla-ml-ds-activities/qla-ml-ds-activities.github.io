@@ -124,7 +124,7 @@ My research focuses on the application of data science techniques to microfinanc
 <img align="left" src="assets/images/trd.jpg" alt="Thembelihle Rose Dlamini
 " width="150">
 <div class='bioWrapper'>
-[**Thembelihle R. Dlamini**](https://gh.linkedin.com/in/abigail-baidoo-a08b881ab) I am currently a research-based master's student at AIMS South Africa in conjunction
+[**Thembelihle R. Dlamini**](https://www.linkedin.com/in/thembelihle-dlamini-b33108196) I am currently a research-based master's student at AIMS South Africa in conjunction
 with Stellenbosch University. I previously obtained my Msc in Mathematical Sciences from AIMS
 South Africa and my undergraduate degree in Physics and Chemistry from the [**University of Eswatini**](http://www.uneswa.ac.sz/).
 I am currently working on Quantum Annealing error mitigation.
