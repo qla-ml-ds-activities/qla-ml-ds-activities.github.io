@@ -122,6 +122,10 @@ My research focuses on the application of data science techniques to microfinanc
 
 
 
+Thembelihle Dlamini is currently a research-based master's student at AIMS South Africa in conjunction
+with Stellenbosch University. She previously obtained her Msc in Mathematical Sciences from AIMS
+South Africa and her undergraduate degree in Physics and Chemistry from the University of Eswatini.
+She is currently working on Quantum Annealing error mitigation.
 
 
 
