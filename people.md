@@ -73,7 +73,24 @@ mathematics from the African Institute for mathematical Science (AIMS Cameroon).
 </div>
 </div>
  
+<div class='orgWrapper'>
+<img align="left" src="assets/images/jb.jpg" alt="John Bagiliko
+" width="150">
+<div class='bioWrapper'>
+[**John Bagiliko**](https://www.researchgate.net/profile/John-Bagiliko)  I am a Ghanaian. I am currently a PhD candidate with Quantum Leap Africa at the African Institute for Mathematical Sciences (AIMS Rwanda), and the University of Rwanda. I obtained my BSc. Mathematics from the [**University for Development Studies**](https://uds.edu.gh/), Navrongo, Ghana, in 2017. I subsequently obtained an MSc. Mathematical Sciences (Big Data and Computer Security) from AIMS Senegal, in 2019.   
+My research interests are Data Science, Machine Learning, Remote Sensing, Climate Change, and Applied Mathematics. I recently interned with the International Crops Research Institute for the Semi-Arid Tropics, ICRISAT, Mali where I researched on leveraging machine learning with satellite images for plot delineation in the African rain-fed agriculture setting.  I write, listen to music, and play the trumpet at my leisure.
+</div>
+</div>
  
+
+
+
+
+
+
+
+
+
 
 
 
