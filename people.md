@@ -108,7 +108,7 @@ My research interests are Data Science, Machine Learning, Remote Sensing, Climat
  
  
 <div class='orgWrapper'>
-<img align="left" src="assets/images/ab.jpeg" alt="Abigail Baidoo
+<img align="left" src="assets/images/ab.PNG" alt="Abigail Baidoo
 " width="150">
 <div class='bioWrapper'>
 [**Abigail Baidoo**](https://gh.linkedin.com/in/abigail-baidoo-a08b881ab) I am a Ghanaian. 
