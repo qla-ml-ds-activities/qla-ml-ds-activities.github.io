@@ -25,7 +25,7 @@ layout: default
 
 
 <div class='orgWrapper'>
-<img align="left" src="assets/images/cmm.png" alt="Chanelle Matadah Manfouo
+<img align="left" src="assets/images/cmm.jpg" alt="Chanelle Matadah Manfouo
 " width="150">
 <div class='bioWrapper'>
 [**Chanelle M. Manfouo**](https://cm.linkedin.com/in/chanelle-matadah-manfouo-00a946130)  I am from Cameroon. I graduated from the [**University of Ngaoundere**](http://www.univ-ndere.cm/) where I studied mathematics and computer science. After that, I did a structured master's in mathematical sciences at AIMS Cameroon and a research master's in computer science with a focus on quantum cryptography at Quantum Leap Africa. Currently, I am a PhD student in data science at Quantum Leap Africa and at the University of KwaZulu-Natal. My research seeks to review and propose possible optimization of quantum subroutines for some machine learning algorithms. Then, implement the improved version of the latter on real datasets to evaluate their efficiency and practicality. My research interest is in quantum information, quantum machine learning, quantum cryptography, and data science.
