@@ -85,6 +85,37 @@ My research interests are Data Science, Machine Learning, Remote Sensing, Climat
 
 
 
+<div class='orgWrapper'>
+<img align="left" src="assets/images/jf.jpg" alt="Jeremiah Fadugba
+" width="150">
+<div class='bioWrapper'>
+[**Jeremiah Fadugba**](https://www.linkedin.com/in/jeremiah-fadugba-5b3a5375/) I am a PhD Candidate in Computer Science at the [**University of Ibadan**](https://www.ui.edu.ng/), Nigeria and a doctoral fellow in data science at the African Institute for Mathematical Science (AIMS), Rwanda. Previously, I have worked as a Data Scientist and Machine Learning Engineer for various organizations. My current research interest is in medical applications of machine learning and artificial intelligence. I look forward to the development of AI-enabled medical solutions for developing countries.
+</div>
+</div>
+
+
+<div class='orgWrapper'>
+<img align="left" src="assets/images/ahk.jpg" alt="Assionvi Hove Kouevi
+" width="150">
+<div class='bioWrapper'>
+[**Assionvi H. Kouevi**](https://www.linkedin.com/in/assionvi-hove-kouevi-34a429142/) I joined Quantum Leap Africa at AIMS Rwanda as postdoctoral research fellow in Data Science in December 2021. After completing my PhD in applied mathematics and computer sciences at [**Heriot-Watt University**](https://www.hw.ac.uk/) (in 2018, Scotland) with two internships programs with [**Schlumberger Gould Research Centre**](https://www.cambridgetrust.org/partners/schlumberger-gould-research-centre) in Cambridge (in 2015 and 2017, United Kingdom), I held the position of teaching assistant at AIMS Rwanda from 2019 to 2021. My research interests are in the area of applied computational mathematics (e.g. numerical analysis, machine learning), developing efficient numerical techniques to simulate or invert systems and proving convergence, stability. My recent works look at deep learning-based data transmission scheduling for cognitive internet of things, the modelling of electrochemical sensors and simulating fluid flow through complex domains. My current work focuses on the theoretical and numerical  analysis of machine learning for scientific computing method called physics-informed neural networks which is used to solve, invert and discover PDEs via deep learning, hence removing the tyranny of grids and the use of gapy data only.
+</div>
+</div>
+
+
+
+	
+ 
+ 
+<div class='orgWrapper'>
+<img align="left" src="assets/images/ab.jpg" alt="Abigail Baidoo
+" width="150">
+<div class='bioWrapper'>
+[**Abigail Baidoo**](https://gh.linkedin.com/in/abigail-baidoo-a08b881ab) I am a Ghanaian. 
+I hold a Master of Philosophy degree in Mathematics from the University of Cape Coast and a Master of Science degree from the AIMS-Ghana / University of Ghana. 
+My research focuses on the application of data science techniques to microfinance operations.
+</div>
+</div>
 
 
 
